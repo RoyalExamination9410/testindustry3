@@ -1,6 +1,6 @@
 abbreviation: PS
 available: true
-classes: 32
+classes: 1
 colour: 197
 id: 0
 label: PASS
@@ -13,5 +13,5 @@ sprite:
   filename: cargoes/passengers.png
   left: 0
   top: 0
-unitName: Items
+unitName: Passengers
 weight: 16
