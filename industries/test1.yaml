@@ -1,8 +1,7 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance:
 - PASS
-- MAIL
 cargoProduction:
 - PASS
 colour: 1
