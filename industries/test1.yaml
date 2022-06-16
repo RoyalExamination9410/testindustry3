@@ -9,7 +9,7 @@ fundCostMultiplier: 100
 id: 0
 layout:
 - - - 2
-name: 'New industry #0'
+name: Test1
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
@@ -23,7 +23,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/new-industry-0/1.png
+      filename: industries/test1/1.png
       left: -31
       top: 0
 - sprites:
@@ -34,7 +34,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/new-industry-0/2.png
+      filename: industries/test1/2.png
       left: -31
       top: 0
 - sprites:
@@ -45,7 +45,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/new-industry-0/3.png
+      filename: industries/test1/3.png
       left: -31
       top: 0
 - sprites:
@@ -56,7 +56,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/new-industry-0/4.png
+      filename: industries/test1/4.png
       left: -31
       top: 0
 type: primary
