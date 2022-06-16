@@ -6,9 +6,9 @@ id: 0
 label: PASS
 longName: passengers
 name: Passengers
-penaltyLength: 255
-penaltyLowerBound: 0
-price: 4112
+penaltyLength: 215
+penaltyLowerBound: 40
+price: 41120627451
 sprite:
   filename: cargoes/passengers.png
   left: 0
