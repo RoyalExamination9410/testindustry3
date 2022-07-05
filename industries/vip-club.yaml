@@ -8,8 +8,15 @@ colour: 1
 fundCostMultiplier: 100
 id: 0
 layout:
+- - - 0
+- - - 0
+    - 2
+- - - 1
+    - 1
+    - 2
+    - 1
 - - - 2
-name: Test1
+name: VIP club
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
@@ -23,7 +30,18 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/test1/1.png
+      filename: industries/vip-club/1.png
+      left: -31
+      top: -10
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/vip-club/2.png
       left: -31
       top: 0
 - sprites:
@@ -34,9 +52,9 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/test1/2.png
+      filename: industries/vip-club/3.png
       left: -31
-      top: 0
+      top: -11
 - sprites:
   - alwaysDraw: true
     drawType: recolour
@@ -45,18 +63,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/test1/3.png
-      left: -31
-      top: 0
-- sprites:
-  - alwaysDraw: true
-    drawType: recolour
-    sprite:
-      id: 3924
-  - alwaysDraw: false
-    drawType: recolour
-    sprite:
-      filename: industries/test1/4.png
+      filename: industries/vip-club/4.png
       left: -31
       top: 0
 type: primary
